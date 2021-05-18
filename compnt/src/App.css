@@ -1,0 +1,15 @@
+.head
+{
+    color:blue;
+}
+
+.App
+{
+    border-style: double;
+
+    width: 60%;
+    margin: 10px;
+    text-align: center;
+   
+
+}
